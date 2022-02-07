@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+butterfly flies in the air
 Use the left arrow to go back!
